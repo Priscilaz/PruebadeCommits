@@ -14,7 +14,7 @@
                 SemanticProperties.Description="dot net bot in a race car number eight" />
 
             <Label
-                Text="Hello, World!"
+                Text="Cambioooooooo!" 
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
@@ -34,3 +34,6 @@
     </ScrollView>
 
 </ContentPage>
+    
+    
+<!--comentario de prueba KAMILAA-->
